@@ -47,6 +47,18 @@
     <a href="https://www.linkedin.com/in/giselle-bezerra-2357b3251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-          badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<p>
+  
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisellebezerra&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+
 
 
 
