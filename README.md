@@ -2,21 +2,6 @@
 
 **`Desenvolvedora Backend`**
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/giselle-bezerra-2357b3251/">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://www.linkedin.com/in/giselle-bezerra-2357b3251/"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-  
 
 ---
 ### 🤖 Linguagens e Tecnologias
