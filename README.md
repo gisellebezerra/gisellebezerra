@@ -40,9 +40,12 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
-<br/>
-<br/>
-
 ##
+<div>
+    <a href="https://www.linkedin.com/in/giselle-bezerra-2357b3251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-          badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<br/>
+<br/>
+
+
 
