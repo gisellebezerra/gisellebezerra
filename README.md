@@ -1,7 +1,11 @@
 ## 🖥️ Giselle Bezerra 
 
 **`Desenvolvedora Backend`**
-
+---
+<div>
+ <a href="https://www.linkedin.com/in/giselle-bezerra-2357b3251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 ---
 ### 👾 Linguagens e Tecnologias
 
@@ -11,7 +15,7 @@
     title="JAVA" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.worldvectorlogo.com/logos/java.svg" 
+    src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png?v=2025041315" 
 />
 
 <img 
@@ -29,7 +33,7 @@
     title="SQL ORACLE" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.gaonkartech.com/img/oracle.jpg" 
+    src="https://e7.pngegg.com/pngimages/261/825/png-clipart-logo-sail-racing-oracle-tee-grey-violet-brand-font-angle-oracle-database-book-angle-text-thumbnail.png" 
 />
 
 <img 
@@ -45,9 +49,4 @@
 <br/>
 
 ##
-
-<div>
- <a href="https://www.linkedin.com/in/giselle-bezerra-2357b3251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
