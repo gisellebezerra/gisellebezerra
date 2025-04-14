@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Giselle Bezerra
+# Giselle Bezerra 
 
 **`Desenvolvedora Backend`**
 
