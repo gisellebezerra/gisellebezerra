@@ -18,7 +18,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -27,7 +27,7 @@
     align="left" 
     alt="SQL ORACLE"
     title="SQL ORACLE" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://www.redix.com.br/wp-content/uploads/2015/10/logos-tec_ORACLE2-1.jpg" 
 />
@@ -36,7 +36,7 @@
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
