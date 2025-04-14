@@ -29,15 +29,7 @@
     title="SQL ORACLE" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFw9PcstXzIC8cn1ccO7CFcRm4w0upOecbYw&s" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://www.redix.com.br/wp-content/uploads/2015/10/logos-tec_ORACLE2-1.jpg" 
 />
 
 <img 
