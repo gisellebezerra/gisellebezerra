@@ -1,16 +1,15 @@
-## 👾 Giselle Bezerra 
+## 🖥️ Giselle Bezerra 
 
 **`Desenvolvedora Backend`**
 
-
 ---
-### 🤖 Linguagens e Tecnologias
+### 👾 Linguagens e Tecnologias
 
 <img 
     align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.worldvectorlogo.com/logos/java.svg" 
 />
@@ -19,7 +18,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -28,7 +27,7 @@
     align="left" 
     alt="SQL ORACLE"
     title="SQL ORACLE" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://www.gaonkartech.com/img/oracle.jpg" 
 />
@@ -37,7 +36,7 @@
     align="left" 
     alt="Python" 
     title="Python"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
