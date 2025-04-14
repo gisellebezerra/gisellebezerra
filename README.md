@@ -29,7 +29,7 @@
     title="SQL ORACLE" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://www.redix.com.br/wp-content/uploads/2015/10/logos-tec_ORACLE2-1.jpg" 
+    src="https://w7.pngwing.com/pngs/121/681/png-transparent-amazon-relational-database-service-oracle-corporation-international-conference-on-functional-programming-oracle-database-oracle-policy-automation-others-text-logo-sql.png" 
 />
 
 <img 
