@@ -9,7 +9,7 @@
     align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.worldvectorlogo.com/logos/java.svg" 
 />
@@ -18,7 +18,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -27,7 +27,7 @@
     align="left" 
     alt="SQL ORACLE"
     title="SQL ORACLE" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://www.gaonkartech.com/img/oracle.jpg" 
 />
@@ -36,7 +36,7 @@
     align="left" 
     alt="Python" 
     title="Python"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
