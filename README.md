@@ -29,7 +29,7 @@
     title="SQL ORACLE" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://w7.pngwing.com/pngs/121/681/png-transparent-amazon-relational-database-service-oracle-corporation-international-conference-on-functional-programming-oracle-database-oracle-policy-automation-others-text-logo-sql.png" 
+    src="https://www.gaonkartech.com/img/oracle.jpg" 
 />
 
 <img 
