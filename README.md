@@ -37,7 +37,7 @@
     title="SQL ORACLE" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://ittutorial.org/wp-content/uploads/2020/04/plsql.png" 
+              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbbw24x9iZe3QBGUYR8TChySmK2U7yip9n1fZn9S4q4EiCsIZAij6yIZMv22dkRYkZO0NvBWbJ4NP0QOKp1KQujH7qLYvF1tZc4Itw3ND0bfuFC4CpuubXgGSOitNa6MP4FVWKeGTr2q3F/s0/oracle-db.png" 
 />
 
 
