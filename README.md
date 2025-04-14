@@ -9,7 +9,7 @@
     align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.worldvectorlogo.com/logos/java.svg" 
 />
