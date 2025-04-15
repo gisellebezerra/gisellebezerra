@@ -70,6 +70,10 @@
 
  </p>
 
+ </div>
+  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/cb367005ec45c151caffb33a0d04c975.gif">
+</div>
+
 
 
 
