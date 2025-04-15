@@ -41,6 +41,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+  <img align="right" alt="My anime version - Gif" height="100" style="border-radius:50px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZzN3I1azRpam1ldDQwMzNpNHBpMnJxc2c5bGNva3NpNXN2eXY0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif">
 <br/>
 
 ##
@@ -70,9 +71,8 @@
 
  </p>
 
- </div>
-  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZzN3I1azRpam1ldDQwMzNpNHBpMnJxc2c5bGNva3NpNXN2eXY0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif">
-</div>
+
+
 
 
 
