@@ -12,7 +12,7 @@
 />
 
 
----
+
 ### 👾 Linguagens e Tecnologias
 
 <img 
