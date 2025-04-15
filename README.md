@@ -64,6 +64,10 @@
     src="https://github-readme-stats.vercel.app/api?username=gisellebezerra&show_icons=true&theme=rose&include_all_commits=true&locale=pt-br" 
   />
 
+
+  <img align="left" alt="GitHub Stats" height="150" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=AnaKarolineSantos&show_icons=true&theme=rose&include_all_commits=true&locale=pt-br" />
+
+
 </p>
 
 
