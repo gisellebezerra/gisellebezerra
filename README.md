@@ -53,7 +53,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisellebezerra&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisellebezerra&theme=neon&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 <img 
@@ -61,7 +61,7 @@
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gisellebezerra&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=gisellebezerra&show_icons=true&theme=neon&include_all_commits=true&locale=pt-br" 
   />
 
  </p>
