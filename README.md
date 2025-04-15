@@ -1,4 +1,4 @@
-## Olá, sou Giselle Bezerra! Bem-vindo ao meu espaço de compartilhamento de aprendizado, projetos e contribuições!
+## Olá, sou Giselle Bezerra! Bem-vindo ao meu espaço de compartilhamento de aprendizado, projetos e contribuições.
 
 **`Desenvolvedora Backend`**
 
@@ -6,6 +6,7 @@
 ### 👾 Linguagens e Tecnologias
 
 ![Título colorido](https://img.shields.io/badge/Meu%20Título-blue)
+<h1 style="color:red;">Título Vermelho</h1>
 
 <img 
     align="left" 
