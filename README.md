@@ -50,9 +50,9 @@
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZzN3I1azRpam1ldDQwMzNpNHBpMnJxc2c5bGNva3NpNXN2eXY0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif"
 />
 
+<br/>
 
 
-##
 
 <div>
     <a href="https://www.linkedin.com/in/giselle-bezerra-2357b3251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"width="100"></a> 
