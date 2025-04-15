@@ -1,6 +1,8 @@
 ## Olá, sou Giselle Bezerra! Bem-vindo ao meu espaço de compartilhamento de aprendizado, projetos e contribuições.
 
+
 **`Desenvolvedora Backend`**
+
 ---
 ### 👾 Linguagens e Tecnologias
 
