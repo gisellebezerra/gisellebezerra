@@ -61,7 +61,7 @@
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gisellebezerra&show_icons=true&theme=neon&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=gisellebezerra&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
   />
 
  </p>
