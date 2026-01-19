@@ -40,7 +40,25 @@
     title="UML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/UML-007353?style=for-the-badge&logo=uml&logoColor=white" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeCEmQggbdXRT37wvG3ksnWCm3nzWx1sOLQ&s"
+/>
+
+<img 
+    align="left" 
+    alt="POWER BI"
+    title="POWER BI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/500px-New_Power_BI_Logo.svg.png"
+/>
+
+<img 
+    align="left" 
+    alt="EXCEL"
+    title="EXCEL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.citypng.com/public/uploads/preview/hd-microsoft-excel-logo-transparent-png-701751694777434h7pkvogbjk.png"
 />
 <img 
     align="left" 
@@ -60,16 +78,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
-
 <br/>
 
 
-### 📊 Modelagem & Bancos de Dados
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/UML-007353?style=for-the-badge&logo=uml&logoColor=white" />
-<img src="https://img.shields.io/badge/Diagramas_ER-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
 
 
 
