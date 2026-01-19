@@ -56,7 +56,11 @@
 <br/>
 
 
-
+### 📊 Modelagem & Bancos de Dados
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/UML-007353?style=for-the-badge&logo=uml&logoColor=white" />
+<img src="https://img.shields.io/badge/Diagramas_ER-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
 
 
 
