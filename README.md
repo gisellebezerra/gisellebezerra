@@ -44,33 +44,6 @@
 
 <br/>
 
-##
-
-<div>
-    <a href="https://www.linkedin.com/in/giselle-bezerra-2357b3251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"width="100"></a> 
-
-
-</div>
-
-<p>
-  
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisellebezerra&theme=neon&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gisellebezerra&show_icons=true&theme=neon&include_all_commits=true&locale=pt-br" 
-  />
-
- </p>
-
 
 
 
