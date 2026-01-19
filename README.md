@@ -33,6 +33,15 @@
     style="padding-right: 10px;" 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFeH0JLPMUsGx0884gXEah8T2yibDGtCQiA&s" 
 />
+
+<img 
+    align="left" 
+    alt="UML"
+    title="UML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/UML-007353?style=for-the-badge&logo=uml&logoColor=white" 
+/>
 <img 
     align="left" 
     alt="JAVA"
