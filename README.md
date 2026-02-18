@@ -34,14 +34,7 @@
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFeH0JLPMUsGx0884gXEah8T2yibDGtCQiA&s" 
 />
 
-<img 
-    align="left" 
-    alt="UML"
-    title="UML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeCEmQggbdXRT37wvG3ksnWCm3nzWx1sOLQ&s"
-/>
+
 
 <img 
     align="left" 
